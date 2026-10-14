@@ -1,0 +1,8 @@
+3d.jpg filter=lfs diff=lfs merge=lfs -text
+anglif.jpg filter=lfs diff=lfs merge=lfs -text
+braun.jpg filter=lfs diff=lfs merge=lfs -text
+modelka2d.jpg filter=lfs diff=lfs merge=lfs -text
+2x2d.jpg filter=lfs diff=lfs merge=lfs -text
+2d.jpg filter=lfs diff=lfs merge=lfs -text
+anglif-okulary.jpg filter=lfs diff=lfs merge=lfs -text
+mikroskop.jpg filter=lfs diff=lfs merge=lfs -text
