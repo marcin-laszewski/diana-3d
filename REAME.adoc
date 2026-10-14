@@ -1,0 +1,325 @@
+Trójwymiarowe obrazy i filmy: Jak stworzyć i oglądać świat w trzech wymiarach
+=============================================================================
+Diana Lositska <lositska.diana@gmail.com>
+:toc:
+
+Czym NIE są obrazy 3D
+---------------------
+
+Kino z filmem "wokół głowy"::
+  to zwykłe filmy tyle, że zamiast zwykłego
+  prostokątnego ekranu jest ekran sferyczny na którym są wyświetlane obrazy w
+  różnych kierunkach.
+
+_Obrazy zawieszone w powietrzu_::
+  Najczęściej jakieś abstrakcyjne wzory, napisy, efekty na koncertach. To
+  też jest w przestrzeni trójwymiarowej, ale ze względu na techniki ich
+  powstawania zazwyczaj udają tylko prawdziwe obrazy 3D i nie nadają się do
+  prezentacji prawdziwych zdjęć czy filmów.
+
+Czym SĄ obrazy 3D
+-----------------
+
+Prawdziwe obrazy 3D zobaczymy przy mocy dwóch technik:
+
+https://www.youtube.com/watch?v=8N_Cj3ZS9-A[Hologramy]::
+	Prawdziwy obraz trójwymiarowy stworzony z wykorzystaniem
+	interferencji światła laserowego i światła od obitych obrazów. 
+<<stereo,Stereoskopia>>::
+	Oglądanie trójwymiarowych obrazów z wykorzystaniem obrazów płaskich
+	wykonanych dla lewego i prawego oka.
+
+Trzeba jednak koniecznie wiedzieć, że wykorzystywane są tu zupełnie inne
+zjawiska i powstają zupełnie obrazy, które my potocznie nazywam _3D_
+
+Różnice między holografią i stereoskopią
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Holografia::
+	Obrazy holograficzne widzimy jak sztuczne rzeźby zawieszone w powietrzu.
+	Może ten obraz obejrzeć z każdej strony, dokładnie tak jakbyśmy oglądali
+	np. posąg _Venus z Milo_ w muzeum (albo _Lady Di_ w plenerze).
+
+Stereoskopia::
+	Obrazy są prezentowane na płaskim obrazie. Widzimy obiekty w 3D ale
+	tylko i wyłącznie z jednej strony. Tak samo jak _Venus z Milo_ albo
+	_Lady DI_ na fotografii.
+
+[[holografia]]
+Holografia
+----------
+
+Obrazy holograficzne (te prawdziwe, a nie jakieś laserowe światełka na
+koncertach) wykorzystują interferencję światła laserowego do przenoszenia
+informacji przestrzennej (tak w skrócie).
+
+Nie da się tego zrobić bez odpowiedniego lasera i zaawansowanych technik
+przez co jest to nie osiągalne w warunkach domowych (no, chyba, że masz w
+domu laser, najlepiej czerwony o dużej mocy rzędu 5W w trybie ciągłym)
+
+[[NOTE]]
+====
+Warto natomiast znać jednego z głównych twórców holografii: Jurij Nikołajewicz
+Denisjuk.  Oficjalnie - Rosjanin, ale nazwisko wskazuje, że oczywiście
+Ukrainiec.  Tym bardziej, że urodził się w Soczi, a z Północnego Kaukazu
+(np.  Czeczeni) pochodzi wielu fajnych Ukraińców.
+=====
+
+[[stereo]]
+Stereoskopia
+------------
+
+Stereoskopia wykorzystuje sposób w jaki mózg tworzy sobie obrazy
+trójwymiarowe.
+
+Normalne "płaskie zdjęcie" to po prostu rzut rzeczywistego obiektu
+przestrzennego na płaską powierzchnię kliszy fotograficznej czy matrycy CCD.
+Przykładem jest obraz atrakcyjnej modelki poniżej:
+
+.Atrakcyjna modelka
+image:modelka2d.jpg[width="50%",align="center"]
+
+Od góry cała scena wygląda tak: pomiędzy modelką i okiem (kropka na dole)
+wstawiamy płaską powierzchnię (klisze, lub matrycę aparatu) i "rzutujemy"
+wszystkie detale z rzeczywistego obiektu na tą płaszczyznę. Czyli zaznaczamy
+miejsca przecięcia się "promienia" od oka do konkretnego detalu z naszą
+płaską powierzchnią. Zakładając, że nasz jednooki obserwator jest debilem i
+mając modelkę przed sobą patrzy na jej ręce wyglądałoby to tak:
+
+.Modelka w rzutowaniu z jednego punktu
+image:2d.jpg[width="50%",align="center"]
+
+Teraz nasz obserwator ma lewe i prawo oko (ale nadal debil bo dalej patrzy na
+ręce):
+
+
+.Modelka w rzutowaniu z dwóch punktów
+image:3d.jpg[width="50%",align="center"]
+
+Widać, że obrazy z lewego i prawego oka są delikatnie, ale jednak różne:
+
+.Obrazy z dwóch różnych punktów widzenia
+image:2x2d.jpg[width="50%",align="center"]
+
+*Jeśli takie obrazy z obu oczu trafią jednocześnie do rozumu to mózg zbuduje
+sobie z nich przestrzenny obraz widzianego obiektu*.
+
+Dlaczego zatem nie dostrzegamy tej trójwymiarowości w życiu codziennym tak
+wyraźnie jak w kinie _iMax_?
+
+Po pierwsze trzeba mieć dwoje oczu. Ten kretyn tego nie zobaczy:
+
+image::braun.jpg[width="30%"]
+
+Po drugie efekt trójwymiarowości bardzo zależy od odległość między oczami
+oraz odległości od fotografowanego obiektu.  Według testów najlepsze efekty
+uzyskuje się kiedy odległość do obserwowanego obiektu wynosi jest od 30 do
+100 razy większa od rozstawu oczu.  Średni rozstaw oczu u człowieka to około
+6.5cm.  Zatem 3D zobaczymy obserwując interesujące nas obiekt w odległości
+zaledwie około 2 metrów.  Co więcej - 2m jest daleko poza tak zwaną
+_fizjologiczną odległością najlepszego widzenia_, czyli odległość przy
+której nasz wzrok najlepiej widzi obserwowane przedmioty.  To jest po prostu
+odległość w jakiej najlepiej lubimy czytać książki (teraz wiesz czemu my
+lubimy Was oglądać ż bliska - to nie żart)  Dla zwykłego człowieka
+to tylko koło 25cm, dla krótkowidzów - mniej.
+
+Mając do wyboru oglądać coś w 3D (2m), a oglądać coś dokładnie (23cm)
+zazwyczaj wybieramy to drugie. "iMax" i kina 3D są fajne dlatego, że
+pozwalają oglądać prawdziwe 3D w odległości najlepszego widzenia. Zamiast
+oczu w naturalnym rozstawie 6.5cm fotografują świat za pomocą kamer w
+dowolnym rozstawie, tak aby potem prezentowane obrazy znajdowały się w polu
+najlepszego widzenia.
+
+Przykładowy rozstawy kamer dla różnych obiektów
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1cm::
+	Makrofotografia, obiekt w odległości 30 cm.
+
+6.5cm::
+	Sceny w pomieszczeniach i portrety w odległości 2 metrów.  6,5 cm to
+	naturalny rozstaw oczu).
+
+2m::
+	Krajobraz miejski. Odległość do najbliższego budynku 60 metrów.
+
+50m::
+	Dalekie krajobrazy. Na przykład góry  - najbliższy szczyt w odległości 1,5 km.
+	To też pięknie wygląda w trójwymiarze!.
+
+
+
+Już w XIX wieku były popularne
+https://pl.wikipedia.org/wiki/Fotoplastykon[Fotoplastikony] - miejsca gdzie
+można było oglądać trójwymiarowe obrazy dla rozrywki.
+
+Podczas 2 Wojny Światowej powszechnie oglądano zdjęcia lotnicze w sposób
+stereoskopowy: oko lewe i prawe widziało zdjęcia wykonane w krótkim odstępie
+czasu przez przelatujący samolot. Dzięki temu obserwowane obiekty wyglądały
+bardzo plastycznie. Widoczne były na przykład wysokości fotografowanych
+budynków.
+
+Stereoskopię wykorzystuje się w obserwacjach mikroskopowych: mikroskopy
+mają dwa okulary nie po to aby wygodniej było patrzeć oboma oczami, ale żeby
+widać było obserwowane przedmioty w trójwymiarze.
+
+image::mikroskop.jpg[caption="Mikroskop 3D",width="30%"]
+
+Jak zrobić i oglądać trójwymiarowe zdjęcie lub film ?
+-----------------------------------------------------
+
+Formalnie wszystko jest proste: trzeba zrobić dwa zdjęcia z pozycji lewego i
+prawego oka i potem pokazywać je tak, aby tylko lewe oko widziało zdjęcie
+lewe, a prawe oko - prawe. To wszystko.
+
+Proste, ale.... Trzy zadania:
+
+* <<wykonanie, Wykonanie>> zdjęcia.
+* <<zapisanie, Zapisanie>> fotografii do pliku w wygodnej postaci
+  ** Ewentualna korekta - najlepiej sprawić, żeby nie była potrzebna.
+* <<prezentacja, Prezentacja>>.
+
+[[wykonanie]]
+Wykonie zdjęcia
+~~~~~~~~~~~~~~~
+
+*Najważniejsze*: zdjęcia dla oka lewego i prawego są wykonywane z różnych
+miejsce ale poza tym *muszą* być maksymalnie podobne, ponieważ tylko wtedy
+nasz rozum poradzi sobie z eleganckim połączeniem ich w jeden trójwymiarowy
+obiekt:
+
+* Te same warunki ekspozycji, ostrość, jasność, nasycenie.
+* Dokładnie ten sam kierunek patrzenia w poziomie i pionie.
+* Zdjęcia muszą być wykonane w dokładnie tym samym czasie.
+
+Warunki te w praktyce oznaczają, ze trzeba w praktyce użyć dwóch, takich
+samych kamer.
+
+[NOTE]
+====
+W przypadku zdjęć lotniczych wystarczył jeden aparat fotograficzny.  Zdjęcia
+były wykonywane kolejne w kilku-kilkunastosekundowych odstępach, a w tym
+czasie samolot się przemieszczał.  Było to możliwe, ponieważ z dużej
+wysokości nasz "ziemski świat" jest w praktyce nieruchomy. Należało jednak
+dbać, aby lot odbywał się stale na tej samej wysokości i oczywiście unikać
+chmur.
+====
+
+Potrzebujemy:
+
+. Dwóch takich samych aparatów, które można wyzwalać jednocześnie.
+. Statywu, który pozwoli zamocować aparaty obok siebie.
+. Komputera, który wyzwoli zdjęcia i zapisze obrazy.
+
+Aparaty
+^^^^^^^
+
+Na początek mogą być dwie kamerki internetowe USB. Nie wiem jak pod Windows,
+ale pod Linux-em można nimi robić foty w dowolnym momencie. Trzeba tylko
+napisać skrypt, który wyzwoli obie kamery, a potem spokojnie odczyta
+zarejestrowany obraz z każdej z nich.
+
+Statyw
+^^^^^^
+
+Kawałek kształtki z marketu budowlanego powinien wystarczyć. Otwór w środku
+aby można było przykręcić do standardowego statywu. Większy problemem będzie
+przymocowanie kamer. Zazwyczaj mają jakąś podstawki, ale niekoniecznie będzie
+to solidna śruba.
+
+Kształtka powinna być sztywna. Najlepiej ceownik lub, przynajmniej kątownik.
+
+Kontroler
+^^^^^^^^^
+
+Komputer z dwoma wejściami USB + program do wyzwalania zdjęć i zapisu
+obrazów. To akurat najprostsze.
+
+[[zapisanie]]
+Archiwizacja zdjęć
+~~~~~~~~~~~~~~~~~~
+
+Nasz zdjęcia 3D to po prosty dwa zwykłe pliki obrazowe (np. w jpg). To co
+należy następnie z nimi zrobić zależy od urządzenia wykorzystywanego do ich
+późniejszego oglądania.
+
+Okazuje się, że są już takie formaty. Najpopularniejsze to:
+
+JPS::
+	_JPEG Stereo_ to po prostu zwykły plik _JPEG_, który zawiera jeden
+	obrazek złożony z dwóch połówek - po lewej dla lewego oka, po prawej
+	dla prawego.  Dodatkowo w _metadanych_ tego pliku (czyli w _EXIF_,
+	_IPTC_, _XMP_ czy _ICC_ - wiesz o co chodzi) są zapisane dodatkowe
+	informacje, aby urządzenie wyświetlające wiedziało z czym ma
+	odczynienia.
+
+MPO::
+	Nowszy format, o fajnej nazwie (np. https://mpo.lublin.pl),
+	stworzony przez organizację o jeszcze fajniejszej nazwie:
+	"_Camera & Imaging Products Association_" w skrócie
+	http://www.cipa.jp[CIPA].
+
+Trzeba znaleźć gotowe programy które konwertuję nasze podwójne JPG-i do
+jednego z tych formatów.
+
+[[prezentacja]]
+Prezentacja zdjęć
+~~~~~~~~~~~~~~~~~
+
+Najciekawsza część naszego zadania z technicznego punktu widzenia: *jak
+zrobić żeby każde oko zobaczyło tylko obrazek przeznaczony dla niego?* -
+lewy obrazek dla lewego oka, prawy obrazek dla prawego.
+
+Jest kilka sposobów, łatwiejsze lub trudniejsze technicznie, lepsze lub
+gorsze jakościowo, wygodne lub nie w praktyce:
+
+* <<anglif,Anglif>>
+* <<screen2,SBS>>, _Oddzielne ekrany dla każdego oko_
+
+[[anglif]]
+Anglif
+^^^^^^
+
+Najprostszy i najtańszy sposób. Wykorzystuje fakt, że światło czerwone nie
+przechodzi przez niebieskie szkiełko, a światło niebieskie przez czerwone.
+
+Oba obrazy konwertuje się do skali szarości, a następnie jeden na stronie
+jasności w kolorze niebieskim, a drugi w kolorze czerwony. Potem oba obrazy
+dodaje się do siebie. Powstaje coś w tym rodzaju:
+
+image::anglif.jpg[Anglif]
+
+Jeśli na to teraz spojrzysz w takich (tanich) okularach to zobaczysz
+babeczkę w 3 wymiarach:
+
+image::anglif-okulary.jpg[Okulary anglif]
+
+Oczywiście kolory w żaden sposób nie są zachowane, ale obraz jest
+zadziwiająco fajny jak na taką prymitywną technikę.
+
+Ma jeszcze jedną wielką zaletę: te obrazy można oglądać na zwykłych
+monitorach i telewizorach.  Można też sobie wydrukować i powiesić na
+ścianie (będzie wyglądało jak sztuka nowoczesna).
+
+*Zrobimy to!*
+
+[[sbs]]
+Oddzielne ekrany dla każdego oka
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Prosta technika wykorzystywana m.in. we wspominanych _fotoplastikonach_.
+Zdjęcia dla obu oczy prezentuje się na obok siebie, ale ogląda się przez
+specjalne okulary, aby tylko lewe oko widziało fotkę po lewej, a prawe po
+prawej.
+
+Jest kilka technicznych realizacji tej metody:
+
+* Okulary 3D z wbudowanym ekranem,
+* Okulary do specjalnych telewizorów lub projektorów
+  ** _Okulary aktywne_
+  ** _Okulary pasywne_
+
+* Okulary polaryzacyjne, tzw. _pasywne_
+
+*Zrobimy to!*
