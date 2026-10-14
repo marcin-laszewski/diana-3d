@@ -275,7 +275,7 @@ Jest kilka sposobów, łatwiejsze lub trudniejsze technicznie, lepsze lub
 gorsze jakościowo, wygodne lub nie w praktyce:
 
 * <<anglif,Anglif>>
-* <<screen2,SBS>>, _Oddzielne ekrany dla każdego oko_
+* <<screen2,SBS>>, _Oddzielne ekrany dla każdego oka_
 
 [[anglif]]
 Anglif
