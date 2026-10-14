@@ -58,18 +58,10 @@ Nie da się tego zrobić bez odpowiedniego lasera i zaawansowanych technik
 przez co jest to nie osiągalne w warunkach domowych (no, chyba, że masz w
 domu laser, najlepiej czerwony o dużej mocy rzędu 5W w trybie ciągłym)
 
-[[NOTE]]
-====
 Warto natomiast znać jednego z głównych twórców holografii: Jurij Nikołajewicz
 Denisjuk.  Oficjalnie - Rosjanin, ale nazwisko wskazuje, że oczywiście
 Ukrainiec.  Tym bardziej, że urodził się w Soczi, a z Północnego Kaukazu
 (np.  Czeczeni) pochodzi wielu fajnych Ukraińców.
-=====
-
-Stereo
-------
-
-aaa bbb
 
 [[stereo]]
 Stereoskopia
